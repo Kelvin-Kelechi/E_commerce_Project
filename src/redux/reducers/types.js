@@ -1,0 +1,7 @@
+export const REMOVED_FROM_CART = "REMOVED_FROM_CART";
+export const FILTER_BY_PRICE = "FILTER_BY_PRICE";
+export const FILTER_BY_COLOR = "FILTER_BY_COLOR";
+export const FILTER_BY_SIZE = "FILTER_BY_SIZE";
+export const ADDED_TO_CART = "ADDED_TO_CART";
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
